@@ -24,7 +24,7 @@ excerpt: "백준 코딩테스트 1단계 입출력과 사칙연산 풀이"
 
 ### 문제 2557번 - Hello World!를 출력하시오.
 
-```csharp
+```markdown
 using System;
 
 class Question
@@ -48,7 +48,7 @@ class Question
 
 ### 문제 10718번 - We love kriii(격려의 문구를 출력해주자)
 
-```csharp
+```markdown
 using System;
 
 class Question10718
@@ -69,7 +69,7 @@ class Question10718
 
 ### 문제 10171번 - 아래 예제와 같이 고양이를 출력하시오.
 
-```csharp
+```markdown
 \\    /\\
  )  ( ')
 (  /  )
@@ -100,7 +100,7 @@ class Question10171
 
 ### 문제 10172번 - 아래 예제와 같이 개를 출력하시오.
 
-```csharp
+```markdown
 |\\_/|
 |q p|   /}
 ( 0 )"""\\
@@ -132,7 +132,7 @@ class Question10172
 
 ### 문제 1000번 - 두 정수 A와 B를 입력받은 다음, A+B를 출력하는 프로그램을 작성하시오.
 
-```csharp
+```markdown
 첫 째줄에 A와 B가 주어진다.(0 <A, B<10)
 출력은 첫째 줄에 A+B를 출력한다.
 
@@ -166,7 +166,7 @@ class Question1000
 
   - 문자열 '0'은 십진수 48이며, 입력값이 1,2였을 때 십진수는 49, 50이 된다. 49에서 48을 빼면 1이 나오고 50-48을 빼면 2가 나오니 1+2 =3이 나온다.
 
-    ```csharp
+    ```markdown
     using System;
     
     namespace Practice
@@ -186,7 +186,7 @@ class Question1000
 
 ### 문제 1001번 - 두 정수 A와 B를 입력받은 다음, A-B를 출력하는 프로그램을 작성하시오.
 
-```csharp
+```markdown
 using System;
 
 namespace BaekJoon
@@ -223,7 +223,7 @@ namespace BaekJoon
 
 ### 문제 10998번 - 두 정수 A와 B를 입력받은 다음, AxB를 출력하는 프로그램을 작성하시오.
 
-```csharp
+```markdown
 using System;
 
 namespace BaekJoon
@@ -259,7 +259,7 @@ namespace BaekJoon
 
 ### 문제 1008번 - 두 정수 A와 B를 입력받은 다음, A/B를 출력하는 프로그램을 작성하시오.
 
-```csharp
+```markdown
 using System;
 
 namespace BaekJoon
@@ -297,7 +297,7 @@ namespace BaekJoon
 
 ### 문제 10869번 - 두 자연수 A와 B가 주어진다. 이때, A+B, A-B, A*B, A/B(몫), A%B(나머지)를 출력하는 프로그램을 작성하시오.
 
-```csharp
+```markdown
 using System;
 
 namespace Baekjoon
@@ -334,7 +334,7 @@ namespace Baekjoon
 
 ### 문제 10430번 - 사칙연산 복합 문제
 
-```jsx
+```markdown
 (A+B)%C는 ((A%C) + (B%C))%C 와 같을까?
 
 (A×B)%C는 ((A%C) × (B%C))%C 와 같을까?
@@ -384,9 +384,9 @@ namespace Baekjoon
 
 - (1)과 (2)위치에 들어갈 세 자리 자연수가 주어질 때 (3), (4), (5), (6)위치에 들어갈 값을 구하는 프로그램을 작성하시오.
 
-  ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f74f800c-dcd3-4779-a282-7e02becb4822/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f74f800c-dcd3-4779-a282-7e02becb4822/Untitled.png)
+  ![실력키우기 곱셈(JAVA)](https://lh3.googleusercontent.com/proxy/E0b5RxqbEtOHGj-EtiP3dw498rcgb7ezIWEwWIMHAl0Str_RgW6cJ0TUshfWz9nNg7Oi6dhC0uIhzLYEaMo8KnFoZHytqwkYHyCWkbbLw9Z3xBzMpzx_M2KHLBLEyQdgurZ0sd9hn_BQTCUu_30uqRY)
 
-  ```jsx
+  ```markdown
   using System;
   
   namespace Baekjoon
