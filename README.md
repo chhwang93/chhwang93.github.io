@@ -10,7 +10,8 @@
 
   - ### TIL
 
-
+  - #### 현재 티스토리 블로그로 변경 https://chhwang93.tistory.com/
+    - #### 아직 github.io 블로그 정리가 미흡
 
 # 테마
 
